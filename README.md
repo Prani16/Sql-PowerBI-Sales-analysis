@@ -4,7 +4,7 @@ An end-to-end business intelligence project that models sales profitability from
 normalized OLTP database and presents it in an interactive Power BI dashboard.
 Built on the **AdventureWorks** dataset with **MySQL** as the backend.
 
-![Dashboard](dashboard.png)
+
 
 ---
 
